@@ -10,8 +10,8 @@ function generateHTML(cards) {
         <title>Document</title>
     </head>
     <body>
-        <div class="h-100 text-center text-white p-3 bg-danger">
-            <h2>Team</h2>     
+        <div class="h-100 text-center text-white p-3 bg-info">
+            <h2>My Team</h2>     
         </div>
         
         <div class="container">
